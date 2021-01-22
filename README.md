@@ -1,2 +1,2 @@
 # infypoc
-Small repo for showcasinf POC
+Small repo for showcasing POC
