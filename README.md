@@ -5,6 +5,9 @@ ReadME:
 
 - please install all packages from 'requirements.txt' before proceeding
 
+- only install tensorflow-gpu if your machine does have a gpu, else not 
+  necessary. Please read 'requirements.text' before proceeding
+
 - please ensure files 'data_acquisition.ipynb' and 'det_model.ipynb' are 
   both in same folder
   
