@@ -1,4 +1,4 @@
-# infypoc
+# Proof of Concept - Demo
 Small repo for showcasing Proof of Concept - Anomaly Detection.
 
 ReadME:
